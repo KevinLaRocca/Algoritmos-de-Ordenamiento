@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosCuadraticos\AlgoritmosCuadraticos\obj\Debug\AlgoritmosCuadraticos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosCuadraticos\AlgoritmosCuadraticos\obj\Debug\AlgoritmosCuadraticos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosCuadraticos\AlgoritmosCuadraticos\bin\Debug\AlgoritmosCuadraticos.exe.config
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosCuadraticos\AlgoritmosCuadraticos\bin\Debug\AlgoritmosCuadraticos.exe
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosCuadraticos\AlgoritmosCuadraticos\bin\Debug\AlgoritmosCuadraticos.pdb
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosCuadraticos\AlgoritmosCuadraticos\obj\Debug\AlgoritmosCuadraticos.exe
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosCuadraticos\AlgoritmosCuadraticos\obj\Debug\AlgoritmosCuadraticos.pdb
