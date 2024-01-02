@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosNLogN\AlgoritmosNLogN\AlgoritmosNLogN\bin\Debug\AlgoritmosNLogN.exe.config
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosNLogN\AlgoritmosNLogN\AlgoritmosNLogN\bin\Debug\AlgoritmosNLogN.exe
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosNLogN\AlgoritmosNLogN\AlgoritmosNLogN\bin\Debug\AlgoritmosNLogN.pdb
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosNLogN\AlgoritmosNLogN\AlgoritmosNLogN\obj\Debug\AlgoritmosNLogN.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosNLogN\AlgoritmosNLogN\AlgoritmosNLogN\obj\Debug\AlgoritmosNLogN.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosNLogN\AlgoritmosNLogN\AlgoritmosNLogN\obj\Debug\AlgoritmosNLogN.exe
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosNLogN\AlgoritmosNLogN\AlgoritmosNLogN\obj\Debug\AlgoritmosNLogN.pdb
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosNLogN\AlgoritmosNLogN\bin\Debug\AlgoritmosNLogN.exe.config
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosNLogN\AlgoritmosNLogN\bin\Debug\AlgoritmosNLogN.exe
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosNLogN\AlgoritmosNLogN\bin\Debug\AlgoritmosNLogN.pdb
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosNLogN\AlgoritmosNLogN\obj\Debug\AlgoritmosNLogN.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosNLogN\AlgoritmosNLogN\obj\Debug\AlgoritmosNLogN.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosNLogN\AlgoritmosNLogN\obj\Debug\AlgoritmosNLogN.exe
+C:\Users\Usuario\Desktop\Algoritmos\AlgoritmosNLogN\AlgoritmosNLogN\obj\Debug\AlgoritmosNLogN.pdb
